@@ -45,3 +45,5 @@ The main goals to achieve in this repo are:
 - GPT-2 performs well on language modeling tasks, showing reasonable perplexity scores, but can perform better with training or fine-tuning.
 - For reasoning tasks like GSM8K, the model struggles, indicating a limitation of base GPT-2 on complex math or logical inference.
 - Quantized models significantly reduce memory usage and inference time with minimal performance loss.
+
+More details on each step, including code and comments, can be found in the notebook itself.
